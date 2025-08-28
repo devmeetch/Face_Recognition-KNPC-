@@ -18,6 +18,6 @@ Typical flow
 
 Camera sees a face → system matches it to the nearest known identity.
 
-Matched profile and name are shown with the review form and signature pad.
+Matched profile  shown with the review form and signature pad.
 
 On submit, the app writes a JSON record (rating, comment, person ID, timestamps, file paths) and saves the signature PNG (and optional snapshot) to local folders.
